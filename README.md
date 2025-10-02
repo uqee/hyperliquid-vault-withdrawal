@@ -20,4 +20,4 @@
 
     If the result is `{'status': 'ok', 'response': {'type': 'default'}}`, then you have successfully withdrawn your vault equity to your margin balance, congrats!
 
-4. Optionally you can withdraw your margin balance into your Arbitrum wallet via [DeBridge](https://app.debridge.finance/?address=&inputChain=999999&outputChain=42161&inputCurrency=0xaf88d065e77c8cc2239327c5edb3a432268e5831&outputCurrency=0xaf88d065e77c8cc2239327c5edb3a432268e5831&dlnMode=simple).
+4. Optionally you can withdraw your margin balance into your Arbitrum wallet via [Relay](https://relay.link/bridge) or [DeBridge](https://app.debridge.finance/?address=&inputChain=999999&outputChain=42161&inputCurrency=0xaf88d065e77c8cc2239327c5edb3a432268e5831&outputCurrency=0xaf88d065e77c8cc2239327c5edb3a432268e5831&dlnMode=simple) or any other bridge which supports the Hyperliquid blockchain.
