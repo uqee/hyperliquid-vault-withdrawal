@@ -9,7 +9,7 @@ account = Account.from_key(WALLET)
 exchange = Exchange(account)
 info = Info(skip_ws=True)
 
-input("Press Enter to get balances...")
+input("Press Enter to get initial balances...")
 
 spot_user_state = info.spot_user_state(account.address)
 print(spot_user_state)
